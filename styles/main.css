@@ -24,15 +24,21 @@ a{
     text-align: center;
     font-family: 'Comfortaa', sans-serif;
     color: white;
+    justify-content: center;
+    left: 50%;
 }
 
 .AboutMeTitle{
     font-size: 35px;
     text-decoration: underline;
+    text-align: center;
+    justify-content: center;
 }
 
 .AboutMeParagraph{
     font-size: 25px;
+    text-align: center;
+    justify-content: center;
 }
 
 .Projects{
@@ -52,7 +58,6 @@ a{
 
 .Footer{
     bottom: 0;
-    position: fixed;
     width: 100%;
     font-size: 45px;
     height: 60px;
@@ -61,4 +66,5 @@ a{
     text-align: center;
     margin: 0;
     border: solid black;
+    margin-top: 100px;
 }
