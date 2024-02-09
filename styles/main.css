@@ -1,4 +1,64 @@
+body{
+    background-color:rebeccapurple ;
+}
+
 .FrontHeader{
     text-align: center;
     justify-content: center;
+    width: 100%;
+    background-color: rebeccapurple;
+    color: white;
+    height:60px;
+    font-size: 45px;
+    margin: 0;
+    font-family: 'Comfortaa', sans-serif;
+    border: solid black;
+}
+
+a{
+    color:blue;
+    text-decoration: underline white
+}
+
+.AboutMe{
+    text-align: center;
+    font-family: 'Comfortaa', sans-serif;
+    color: white;
+}
+
+.AboutMeTitle{
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+.AboutMeParagraph{
+    font-size: 25px;
+}
+
+.Projects{
+    text-align: center;
+    font-family: 'Comfortaa', sans-serif;
+    color: white;
+}
+
+.ProjectsTitle{
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+.ProjectsParagraph{
+    font-size: 25px;
+}
+
+.Footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    font-size: 45px;
+    height: 60px;
+    font-family: 'Comfortaa', sans-serif;
+    color: white;
+    text-align: center;
+    margin: 0;
+    border: solid black;
 }
